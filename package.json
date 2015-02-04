@@ -1,0 +1,10 @@
+{
+  "name": "geocoords",
+  "version": "0.0.0",
+  "description": "A Geo coordinate translator between GPS system, Mars system and Biadu system",
+  "author": {
+    "name": "Meizan Zheng",
+    "email": "zmzsmnh@gmail.com"
+  },
+  "main": "./geocoords"
+}
